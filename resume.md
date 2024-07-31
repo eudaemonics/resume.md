@@ -34,7 +34,7 @@ hand -->
 ### <span>Teaching Assistant, California Children's Academy</span> <span>Jul 2024 -- Present</span>
 
  - Fostering an inclusive and safe learning environment for children from low-to-moderate income families. 
- - Collaborating with the teacher to create engaging and educational learning activities for children.
+ - Supervising children and ensuring that they are engaging in healthy and educational play.
 
 ### <span>Clinical Psychology Intern, Mucci Assessment</span> <span>Jul 2024 -- Present</span>
 - Scoring and assessing various psychological assessments.
