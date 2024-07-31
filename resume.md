@@ -38,16 +38,11 @@ hand -->
 
 ### <span>Clinical Psychology Intern, Mucci Assessment</span> <span>Jul 2024 -- Present</span>
 - Scoring and assessing various psychological assessments.
-- Gaining hands-on administrative clinical experience.
+- Marketing for a private clinical practice.
  
 ###<span>Freelance Illustrator, Self-employed</span> <span>2016 -- Present</span>
-- Illustration work for charity zines and commissioned artwork for private clients.
+- Illustration work for charity zines and commissioned artwork for private clients via the platform Artistree.
 - Coordinating with customers, working within deadlines, and delivering quality art to my commissioners.
-
- 
-###<span>Magazine Editor, Neon Anteater Renaissance</span> <span>Nov 2021 -- Oct 2023</span>
-- Curated magazine content in a creative and aesthetically pleasing way.
-- Brainstormed themes for magazines and provided feedback on formatting to image editors, organized and put submissions in specific orders in alignment with a theme.
 
 ### <span>Volunteer, Campuswide Honors Collegium</span> <span>Apr 2023</span>
 - Practiced clear communication in welcoming guests, answering questions, and sharing my personal experiences as a member of CHC to encourage prospective students to join.
@@ -78,13 +73,18 @@ A literature review on the effect of digital avatars on livestreaming platforms.
 - Organized creative events and innovated new ways to make CHC, a highly selective program comprised of the top three percent of all UCI students, more welcoming and fun to be a part of.
 - Created posters with Canva and managed social media accounts to improve engagement from the student body. 
 - Compiled and edited quarterly creative magazines into a yearly issue which is published on Issuu and then distributed to the CHC community.
+ 
+###<span>Magazine Editor, Neon Anteater Renaissance</span> <span>Nov 2021 -- Oct 2023</span>
+- Curated magazine content in a creative and aesthetically pleasing way.
+- Brainstormed themes for magazines and provided feedback on formatting to image editors, organized and put submissions in specific orders in alignment with a theme.
 
 ### <span>Urop 2022 Spring Proposal $500.00</span><span>Jun 2022</span>
 - Received a grant to complete research on my undergraduate thesis on livestreaming, digital avatars, and sexism.
 
 ## Skills
 
-- **Computer:** Google Workspace, Microsoft Suite, RStudio, Windows OS, Zoom, Notion, Trello, Markdown, 90-100WPM
+- **Computer:** Google Workspace, Microsoft Suite, RStudio, Windows OS, Zoom, Notion, MediaWiki, Trello, Markdown, 90-100WPM
  - **Programming:** HTML, CSS, C, C++, R, Python
  - **Graphic Design & Illustration:** Canva, Photopea, FireAlpaca, Medibang Paint Pro, Autodesk Sketchbook, Clip Studio Paint Pro
- - **Languages:** English (fluent), French (conversational)
+ - **Languages:** English, French
+ - **Miscellaneous:** MailChimp, Slack, Childcare
