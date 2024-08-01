@@ -23,22 +23,30 @@ Interdisciplinary sociopsychologist with practical knowledge of data science, su
   
 ### <span>Los Angeles Pierce College</span> <span>2018 -- 2021</span>
 
-- Associate Degree in Psychology
-- Associate Degree in General Studies in Social & Behavioral sciences
-- Associate Degree in General Studies in STEM
+- Associate degrees in Psychology, General Studies in Social & Behavioral sciences, and General Studies in STEM
+
+## Certifications
+### <span>Calbright College</span> <span>2024 - Ongoing</span>
+
+- Expected to complete certification by end of 2024.
+- Learning how to use SQL and R to clean, organize, and visualize datasets.
 
 ## Work Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
+<!--###<span>Eudaemonium, Sole proprietor</span> <span>2016 -- Present</span>
+- Designing and selling original hand-drawn merchandise, ranging from acrylic charms to stickers.
+- Shipping and packaging products to deliver them to my customers in a timely manner.-->
+
 ### <span>Teaching Assistant, California Children's Academy</span> <span>Jul 2024 -- Present</span>
 
  - Fostering an inclusive and safe learning environment for children from low-to-moderate income families. 
  - Supervising children and ensuring that they are engaging in healthy and educational play.
 
 ### <span>Clinical Psychology Intern, Mucci Assessment</span> <span>Jul 2024 -- Present</span>
-- Scoring and assessing various psychological assessments.
-- Marketing for a private clinical practice.
+- Scoring and assessing various psychological assessments for children with ADHD.
+- Marketing for a private clinical practice, mainly targeting parents of preteens and adolescents.
  
 ###<span>Freelance Illustrator, Self-employed</span> <span>2016 -- Present</span>
 - Illustration work for charity zines and commissioned artwork for private clients via the platform Artistree.
@@ -49,42 +57,40 @@ hand -->
 - Worked with a team of CHC and UCI students, staff, and faculty to coordinate a fast-paced event serving more than 200 guests.
 
 ### <span>Intern, Pilipinx-Americans in Social Studies</span> <span>Nov 2021 -- Jun 2022</span>
-- Led and brainstormed weekly meetings alongside other interns and planned social events for the Pilipinx-American community of UCI. 
+- Brainstormed weekly meetings with other interns and planned social events for UCI's Pilipinx-American community.
 - Created posters and advertising graphics with Canva to boost engagement on social media and on campus.
-- Managed an information booth at the involvement fair to increase interest in our club.
 
-## Research Projects
+### <span>Tutor, Heritage Christian Schools</span> <span>2017</span>
+- Tutored elementary to middle school students in a variety of subjects, including French and basic algebra.
+
+## Research Experience
 
 ### <span>Sexism, Streamers, and Simulated Avatars</span> <span>Oct 2023</span>
 
-A literature review on the effect of digital avatars on livestreaming platforms.
-
    - Qualitative literature review synthesizing literature on misogyny, bias, VTuber presentation, and livestreaming communities.
-   - Presented in poster format, designed in RStudio, at the UCI Undergraduate Research Symposium in 2023
+   - Presented in poster format at the UCI Undergraduate Research Symposium in 2023.
 
 ### <span>Effects of Technology Use and Dependency on Impulsivity</span> <span>Oct 2020</span>
 - Group psychological study on the effects of technology dependency and impulse control.
 
 ### <span>Separation and Families of Overseas Filipino Workers</span><span>Jun 2019</span>
-- Solo sociological study on the effects of long-term separation on families of overseas Filipino workers.
+- A survey on the effects of long-term separation on families of overseas Filipino workers.
   
-## Awards & Activities
+## Activities & Awards
 ### <span>Representative, Campuswide Honors Collegium</span> <span>Nov 2021 -- Oct 2023</span>
-- Organized creative events and innovated new ways to make CHC, a highly selective program comprised of the top three percent of all UCI students, more welcoming and fun to be a part of.
-- Created posters with Canva and managed social media accounts to improve engagement from the student body. 
-- Compiled and edited quarterly creative magazines into a yearly issue which is published on Issuu and then distributed to the CHC community.
+- Organized creative events to make the honors community at UCI more welcoming and fun to be a part of.
+- Compiled quarterly creative magazines into a yearly issue to be distributed to the UCI Honors community.
  
 ###<span>Magazine Editor, Neon Anteater Renaissance</span> <span>Nov 2021 -- Oct 2023</span>
 - Curated magazine content in a creative and aesthetically pleasing way.
-- Brainstormed themes for magazines and provided feedback on formatting to image editors, organized and put submissions in specific orders in alignment with a theme.
+- Organized and put submissions in specific orders in alignment with a theme.
 
-### <span>Urop 2022 Spring Proposal $500.00</span><span>Jun 2022</span>
+### <span>UROP 2022 Spring Proposal $500.00</span><span>Jun 2022</span>
 - Received a grant to complete research on my undergraduate thesis on livestreaming, digital avatars, and sexism.
 
 ## Skills
 
-- **Computer:** Google Workspace, Microsoft Suite, RStudio, Windows OS, Zoom, Notion, MediaWiki, Trello, Markdown, 90-100WPM
+- **Computer:** Google Workspace, Microsoft Suite, RStudio, Windows OS, Zoom, Notion, MediaWiki, MailChimp, Slack, Trello, Markdown, 90-100WPM
  - **Programming:** HTML, CSS, C, C++, R, Python
  - **Graphic Design & Illustration:** Canva, Photopea, FireAlpaca, Medibang Paint Pro, Autodesk Sketchbook, Clip Studio Paint Pro
  - **Languages:** English, French
- - **Miscellaneous:** MailChimp, Slack, Childcare
