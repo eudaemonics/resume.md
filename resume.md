@@ -24,18 +24,32 @@ Creative data analyst with 2 years of experience working in higher education, an
 ## Certifications
 ### <span>Coursera - Google Data Analytics</span> <span>Feb 2026</span>
 
+<<<<<<< HEAD
 ### <span>Calbright College - Data Analysis</span> <span>Feb 2025</span>
+=======
+- Associate degrees in Psychology, General Studies in Social & Behavioral sciences, and General Studies in STEM
+
+## Certifications
+### <span>Calbright College</span> <span>2024 - Ongoing</span>
+
+- Expected to complete certification by end of 2024.
+- Learning how to use SQL and R to clean, organize, and visualize datasets.
+>>>>>>> 1ec76287074f40e91a093427f1049266630c345e
 
 ## Work Experience
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
+<<<<<<< HEAD
 <!--###<span>Private tutor, self-employed</span> <span>Sep 2024 -- Present</span>
 - Tutoring elementary to high school students in various subjects, ranging from writing, reading comprehension, to basic algebra and pre-calculus.-->
 
+=======
+>>>>>>> 1ec76287074f40e91a093427f1049266630c345e
 <!--###<span>Eudaemonium, Sole proprietor</span> <span>2016 -- Present</span>
 - Designing and selling original hand-drawn merchandise, ranging from acrylic charms to stickers.
 - Shipping and packaging products to deliver them to my customers in a timely manner.-->
 
+<<<<<<< HEAD
 ### <span>Employer Outreach Intern, Calbright College</span> <span>Dec 2024 - Dec 2025</span>
 
 - Sourcing multiple job boards to identify relevant employer contacts, averaging 5 contacts per day.
@@ -43,18 +57,30 @@ hand -->
 - Analyze historical data to target hiring patterns from California companies.
 - Provided insights on company hiring trends to refine Calbright student profiles.
 
+=======
+>>>>>>> 1ec76287074f40e91a093427f1049266630c345e
 ### <span>Teaching Assistant, California Children's Academy</span> <span>Jul 2024 -- Present</span>
 
  - Fostering an inclusive and safe learning environment for children from low-to-moderate income families. 
  - Supervising children and ensuring that they are engaging in healthy and educational play.
 
 ### <span>Clinical Psychology Intern, Mucci Assessment</span> <span>Jul 2024 -- Present</span>
+<<<<<<< HEAD
 
  <!--
 ###<span>Freelance Illustrator, Self-employed</span> <span>2016 -- Present</span>
 - Illustration work for charity zines and commissioned artwork for private clients via the platform Artistree.
 - Coordinating with customers, working within deadlines, and delivering quality art to my commissioners.
 -->
+=======
+- Scoring and assessing various psychological assessments for children with ADHD.
+- Marketing for a private clinical practice, mainly targeting parents of preteens and adolescents.
+ 
+###<span>Freelance Illustrator, Self-employed</span> <span>2016 -- Present</span>
+- Illustration work for charity zines and commissioned artwork for private clients via the platform Artistree.
+- Coordinating with customers, working within deadlines, and delivering quality art to my commissioners.
+
+>>>>>>> 1ec76287074f40e91a093427f1049266630c345e
 ### <span>Volunteer, Campuswide Honors Collegium</span> <span>Apr 2023</span>
 - Practiced clear communication in welcoming guests, answering questions, and sharing my personal experiences as a member of CHC to encourage prospective students to join.
 - Worked with a team of CHC and UCI students, staff, and faculty to coordinate a fast-paced event serving more than 200 guests.
@@ -62,21 +88,40 @@ hand -->
 ### <span>Intern, Pilipinx-Americans in Social Studies</span> <span>Nov 2021 -- Jun 2022</span>
 - Brainstormed weekly meetings with other interns and planned social events for UCI's Pilipinx-American community.
 - Created posters and advertising graphics with Canva to boost engagement on social media and on campus.
+<<<<<<< HEAD
 <!--
 ### <span>Tutor, Heritage Christian Schools</span> <span>2017</span>
 - Tutored elementary to middle school students in a variety of subjects, including French and basic algebra.
 -->
 ## Research Experience
+=======
+
+### <span>Tutor, Heritage Christian Schools</span> <span>2017</span>
+- Tutored elementary to middle school students in a variety of subjects, including French and basic algebra.
+
+## Research Experience
+
+>>>>>>> 1ec76287074f40e91a093427f1049266630c345e
 ### <span>Sexism, Streamers, and Simulated Avatars</span> <span>Oct 2023</span>
 - Qualitative literature review synthesizing literature on misogyny, bias, VTuber presentation, and livestreaming communities.
 - Presented in poster format at the UCI Undergraduate Research Symposium in 2023.
 
+<<<<<<< HEAD
+=======
+   - Qualitative literature review synthesizing literature on misogyny, bias, VTuber presentation, and livestreaming communities.
+   - Presented in poster format at the UCI Undergraduate Research Symposium in 2023.
+
+>>>>>>> 1ec76287074f40e91a093427f1049266630c345e
 ### <span>Effects of Technology Use and Dependency on Impulsivity</span> <span>Oct 2020</span>
 - Group psychological study on the effects of technology dependency and impulse control.
 
 ### <span>Separation and Families of Overseas Filipino Workers</span><span>Jun 2019</span>
 - A survey on the effects of long-term separation on families of overseas Filipino workers.
+<<<<<<< HEAD
 <!--
+=======
+  
+>>>>>>> 1ec76287074f40e91a093427f1049266630c345e
 ## Activities & Awards
 ### <span>Representative, Campuswide Honors Collegium</span> <span>Nov 2021 -- Oct 2023</span>
 - Organized creative events to make the honors community at UCI more welcoming and fun to be a part of.
@@ -85,6 +130,12 @@ hand -->
 ###<span>Magazine Editor, Neon Anteater Renaissance</span> <span>Nov 2021 -- Oct 2023</span>
 - Curated magazine content in a creative and aesthetically pleasing way.
 - Organized and put submissions in specific orders in alignment with a theme.
+<<<<<<< HEAD
+=======
+
+### <span>UROP 2022 Spring Proposal $500.00</span><span>Jun 2022</span>
+- Received a grant to complete research on my undergraduate thesis on livestreaming, digital avatars, and sexism.
+>>>>>>> 1ec76287074f40e91a093427f1049266630c345e
 
 ### <span>UROP 2022 Spring Proposal $500.00</span><span>Jun 2022</span>
 - Received a grant to complete research on my undergraduate thesis on livestreaming, digital avatars, and sexism.
